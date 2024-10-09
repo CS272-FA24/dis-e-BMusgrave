@@ -1,4 +1,3 @@
-TODO Your pseudocode goes here!
 1. If the pile of books you have is 0 or 1 it is already sorted youre done
 2. If pile has more than 2 book continue to next step
 3. Lets assume we want to sort book with numbers before the alphabet. Assume the first book in the pile is first.
